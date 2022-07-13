@@ -1,0 +1,5 @@
+zsh/.history
+zsh/modules/mtarget/*
+!zsh/modules/mtarget/.gitkeep
+zsh/modules/mlocal/*
+!zsh/modules/mlocal/.gitkeep
